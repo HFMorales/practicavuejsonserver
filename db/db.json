@@ -1,0 +1,46 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "Nombre": "Henry Fernando",
+      "Direccion": "Villa Copacabana",
+      "Celular": "78799907"
+    },
+    {
+      "Nombre": "Carlos",
+      "Direccion": "obrajes",
+      "Celular": "2547",
+      "id": 2
+    }
+  ],
+  "consumo": [
+    {
+      "id": 1,
+      "Usuario": "Henry Fernando",
+      "Cantidad": "100",
+      "Fecha": "22-11-2022",
+      "Total": "300"
+    },
+    {
+      "Usuario": "Jhonny Vazquez Canceco",
+      "Cantidad": "200",
+      "Fecha": "2022-11-23",
+      "Total": 400,
+      "id": 2
+    },
+    {
+      "Usuario": "carlos",
+      "Cantidad": "300",
+      "Fecha": "2022-11-24",
+      "Total": 500,
+      "id": 3
+    },
+    {
+      "Usuario": "Henry Fernando",
+      "Cantidad": "600",
+      "Fecha": "2022-11-25",
+      "Total": 650,
+      "id": 4
+    }
+  ]
+}
